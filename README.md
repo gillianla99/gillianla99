@@ -21,12 +21,18 @@ Color theme: #ffc80d (primary), #3d2780 (secondary)
 
 ---
 
+## 🔗 Live Projects
+
+- 🥗 **FitnessRezept (KI-Ernährungscoach)**: [https://gainz-rest.vercel.app/](https://gainz-rest.vercel.app/)
+
+---
+
 ## 🚀 About Me
 
 👋 Hi, I'm **Gillian**, a passionate software developer from **Germany 🇩🇪**,  
 who loves crafting smooth user experiences and exploring cutting-edge tech.
 
-💡 Currently working on: `An App for the real estate sector`  
+💡 Currently working on: `FitnessRezept - KI-Ernährungscoach`  
 🌱 Learning: `React Native and intuitive design`  
 🎨 Fun fact: `I love exploring random and challenging projects`
 
@@ -50,11 +56,12 @@ who loves crafting smooth user experiences and exploring cutting-edge tech.
 
 ## ⚙️ Featured Projects
 
-| Project                       | Description                                                                | Tech                           |
-| ----------------------------- | -------------------------------------------------------------------------- | ------------------------------ |
-| 🧠 **AI Companion**           | A personal AI chatbot inspired by Neuro-sama, built with Electron & React. | React · Electron · TypeScript  |
-| 📱 **Cosmetic Tracker**       | Mobile app for tracking expiration dates of cosmetic products.             | React Native · Expo · Firebase |
-| 🏠 **Real Estate Management** | Mobile app for managing real estate properties                             | React Native · Expo · Supabase |
+| Project                       | Description                                                                                 | Tech                           |
+| ----------------------------- | ------------------------------------------------------------------------------------------- | ------------------------------ |
+| 🥗 **FitnessRezept**          | KI-Ernährungscoach: Zutaten eingeben, Ziel-Makros setzen und ein passendes Rezept generieren. [Live Demo](https://gainz-rest.vercel.app/) | Next.js · React · TypeScript   |
+| 🧠 **AI Companion**           | A personal AI chatbot inspired by Neuro-sama, built with Electron & React.                 | React · Electron · TypeScript  |
+| 📱 **Cosmetic Tracker**       | Mobile app for tracking expiration dates of cosmetic products.                              | React Native · Expo · Firebase |
+| 🏠 **Real Estate Management** | Mobile app for managing real estate properties                                              | React Native · Expo · Supabase |
 
 > 💡 Want to see more? Check out my [repositories](https://github.com/gillianlamping?tab=repositories).
 
